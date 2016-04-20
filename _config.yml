@@ -1,0 +1,28 @@
+name: Portraits by Jep Lulu
+favicon: null
+layout_spectrum: 0.41423523239791393
+typography_spectrum: 0.6621320624835789
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.22110633156262338
+  lightness: 0.6125227261800319
+  saturation: 0.765967364422977
+  rhythmicContrast: 0.4398165694437921
+purpose: []
