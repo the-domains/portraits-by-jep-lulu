@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Portraits by Jep Lulu]]></title>
         <description><![CDATA[Portraits by Jep Lulu]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/portraits-by-jep-lulu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 04:14:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Apr 2016 04:24:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/portraits-by-jep-lulu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/710a9fa7-fdc4-447e-8589-09971e053405.jpg">]]></description>
+            <link>https://thegrid.ai/portraits-by-jep-lulu/d51588db-e9b5-4822-9923-abdcea7e320a/index.html</link>
+            <guid isPermaLink="false">d51588db-e9b5-4822-9923-abdcea7e320a</guid>
+            <pubDate>Wed, 20 Apr 2016 04:24:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1869af95-ba68-42eb-b3c2-0018dc15686f.jpg">]]></description>
-            <link>undefined6913f805-1a74-42e3-a8d5-fab24a16aa55/index.html</link>
+            <link>https://thegrid.ai/portraits-by-jep-lulu/6913f805-1a74-42e3-a8d5-fab24a16aa55/index.html</link>
             <guid isPermaLink="false">6913f805-1a74-42e3-a8d5-fab24a16aa55</guid>
             <pubDate>Wed, 20 Apr 2016 04:14:19 GMT</pubDate>
         </item>
