@@ -1,7 +1,7 @@
 name: Portraits by Jep Lulu
 favicon: null
 layout_spectrum: 0.90468
-typography_spectrum: 0.75585
+typography_spectrum: 0.50836
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.22110633156262338
   lightness: 0.6125227261800319
   saturation: 0.765967364422977
-  rhythmicContrast: 0.4398165694437921
+  rhythmicContrast: 0.25
 purpose: []
